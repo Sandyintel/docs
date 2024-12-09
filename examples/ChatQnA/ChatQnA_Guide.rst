@@ -212,7 +212,7 @@ Single Node
 ***********
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    Xeon Scalable Processor <deploy/xeon>
    Gaudi AI Accelerator <deploy/gaudi>
