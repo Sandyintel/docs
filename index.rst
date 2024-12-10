@@ -63,19 +63,21 @@ Source code for the OPEA Project is maintained in the
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents
+   :maxdepth: 1
+   :hidden:
 
-   OPEA Overview
-   Getting Started with OPEA
-   Tutorials
-   ChatQnA Tutorial
-   AgentQnA Tutorial
-   Code Generation Tutorial
-   GenAI Examples
+   Documentation Home <self>
+   introduction/index
+   getting-started/README
+   examples/index
+   microservices/index
+   deploy/index
+   eval/index
+   developer-guides/index
    community/index
    release_notes/index
    CONTRIBUTING
    faq
+   tutorials/index
 
 .. _OPEA Project GitHub repository: https://github.com/opea-project
